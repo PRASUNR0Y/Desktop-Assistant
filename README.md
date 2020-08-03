@@ -15,3 +15,5 @@ You can control your system with your voice command.
 * [ ] 7. Restart, Sleep or Shut Down the system. 
 
 And many more features.
+
+I do not take credits for anything or any other copyright things in my code, those belongs to it's rightful owner so if you want me to remove things that might belongs to you then contact me on my business email id –– prasunroygit@gmail.com and i will remove it.
