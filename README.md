@@ -6,13 +6,13 @@ You can control your system with your voice command.
 
 **It can:** 
 
-* [ ] 1. Open and close any application of system. 
+* [x] 1. Open and close any application of system. 
 * [x] 2. Search anything on Google or Youtube. 
 * [x] 3. Able to speak time & date. 
 * [x] 4. Send email through voice commands. 
-* [ ] 5. Play or Stop music in our system. 
+* [x] 5. Play or Stop music in our system. 
 * [ ] 6. Solve any algebraic and mathematical problems. 
-* [ ] 7. Restart, Sleep or Shut Down the system. 
+* [x] 7. Restart, Sleep or Shut Down the system. 
 
 And many more features.
 
