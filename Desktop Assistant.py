@@ -32,7 +32,7 @@ def wishMe():
     else:
         speak("Good Night! ")
 
-    speak("I am your  Vertual  Assistant . Please tell me how may I help you")
+    speak("I am your  Vertual  Assistant Suzi. Please tell me how may I help you")
 
 def takeCommand():
     #It takes microphone input from the user and returns string output
@@ -78,17 +78,17 @@ if __name__ == "__main__":
             print(results)
             speak(results)
 
-        elif "hello" in query or "hello Jarvis" in query:
-            hello1 = "Hello Sir ! How May i Help you.."
+        elif "hello" in query or "hello Suzi" in query:
+            hello1 = "Hello ! How May i Help you.."
             print(hello1)
             speak(hello1)
 
         elif "who are you" in query or "about you" in query or "your details" in query:
-            who_are_you = "I am Jarvis an A I based computer program but i can help you lot like a your assistant ! try me to give simple command !"
+            who_are_you = "I am Suzi an A I based computer program but i can help you lot like a your assistant ! try me to give simple command !"
             print(who_are_you)
             speak(who_are_you)
 
-        elif 'who make you' in query or 'who created you' in query or 'who develop you' in query:
+        elif 'who make you' in query or 'who made you' in query or 'who created you' in query or 'who develop you' in query:
             speak(" For your information Prasun Roy Created me !    I can show you his Linked In profile if you want to see.    Yes or no .....")
             ans_from_user_who_made_you = takeCommand()
             if 'yes' in ans_from_user_who_made_you or 'ok' in ans_from_user_who_made_you or 'yeah' in ans_from_user_who_made_you:
@@ -167,7 +167,7 @@ if __name__ == "__main__":
             os.system('shutdown -s')
 
         elif "your name" in query or "sweat name" in query:
-            naa_mme = "Thanks for Asking my self ! Jarvis"  
+            naa_mme = "Thanks for Asking my self ! Suzi"
             print(naa_mme)
             speak(naa_mme)
 
@@ -185,7 +185,7 @@ if __name__ == "__main__":
 
         elif 'the time' in query:
             strTime = datetime.datetime.now().strftime("%H:%M:%S")
-            speak(f"Sir, the time is {strTime}")
+            speak(f"the time is {strTime}")
 
         elif 'open code' in query:
             codePath = "D:\\vs\\Microsoft VS Code\\Code.exe"
@@ -201,7 +201,7 @@ if __name__ == "__main__":
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry Prasun Sir. I am not able to send this email")
+                speak("Sorry.... I am not able to send this email")
 
         elif 'how are you' in query:
             setMsgs = ['Just doing my thing!', 'I am fine!', 'Nice!']
