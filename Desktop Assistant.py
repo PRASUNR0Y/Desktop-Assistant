@@ -67,7 +67,9 @@ def sendEmail(to, content):
 
 if __name__ == "__main__":
     wishMe()
-    while True:          
+    while True:
+            speech = LiveSpeech(lm=False, keyphrase='soozi', kws_threshold=1e-50)   
+            for phrase in speech:       
                 query = takeCommand().lower()
 
                 # Logic for executing tasks based on query
