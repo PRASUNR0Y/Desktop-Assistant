@@ -2,3 +2,4 @@ pyttsx3
 speechRecognition
 wikipedia
 pyaudio
+pocketsphinx
