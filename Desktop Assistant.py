@@ -69,7 +69,8 @@ if __name__ == "__main__":
     wishMe()
     while True:
             speech = LiveSpeech(lm=False, keyphrase='suzie', kws_threshold=1e-30)   #Added pocketsphinx hot word detection
-            for phrase in speech:       
+            for phrase in speech:    
+                speak("Yes")   
                 query = takeCommand().lower()
 
                 # Logic for executing tasks based on query
