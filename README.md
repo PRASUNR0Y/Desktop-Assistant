@@ -5,7 +5,7 @@ It works over user's voice commands.
 You can control your system with your voice command.  
 
 **It can:** 
-
+* [x] 0. Can be ran all the time on a machine and responds to the hotword "suzie".
 * [x] 1. Open and close any application of system. 
 * [x] 2. Search anything on Google or Youtube. 
 * [x] 3. Able to speak time & date. 
