@@ -68,7 +68,7 @@ def sendEmail(to, content):
 if __name__ == "__main__":
     wishMe()
     while True:
-            speech = LiveSpeech(lm=False, keyphrase='soozi', kws_threshold=1e-50)   
+            speech = LiveSpeech(lm=False, keyphrase='suzie', kws_threshold=1e-30)   #Added pocketsphinx hot word detection
             for phrase in speech:       
                 query = takeCommand().lower()
 
@@ -222,7 +222,7 @@ if __name__ == "__main__":
                 else:
                     tempp = query.replace(' ','+')
                     prasun_url="https://www.google.com/search?q="    
-                    res_prasun = 'sorry! i cant understand but i search from internet to give your answer !'
+                    res_prasun = "sorry! i cant understand but i'm searching the web to give your answer !"
                     print(res_prasun)
                     speak(res_prasun)
                     webbrowser.open(prasun_url+tempp)
