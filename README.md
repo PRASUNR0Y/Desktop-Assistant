@@ -1,4 +1,6 @@
 # Desktop-Assistant
+[![GitHub](https://img.shields.io/github/license/PRASUNR0Y/Desktop-Assistant?color=blue)](https://github.com/PRASUNR0Y/Desktop-Assistant/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/PRASUNR0Y/Desktop-Assistant)](https://github.com/PRASUNR0Y/Desktop-Assistant/stargazers)
+
 In this lockdown period I used my Python skills and made a Desktop Assistant. 
 It is same as Google Assistant which we use in our phones. 
 It works over user's voice commands. 
@@ -15,8 +17,6 @@ You can control your system with your voice command.
 * [x] 7. Restart, Sleep or Shut Down the system. 
 
 And many more features.
-
-----
 
 ## Contributing
 
