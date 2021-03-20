@@ -1,5 +1,5 @@
 # Desktop-Assistant
-[![GitHub](https://img.shields.io/github/license/PRASUNR0Y/Desktop-Assistant?color=blue)](https://github.com/PRASUNR0Y/Desktop-Assistant/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/PRASUNR0Y/Desktop-Assistant)](https://github.com/PRASUNR0Y/Desktop-Assistant/stargazers)
+[![GitHub](https://img.shields.io/github/license/PRASUNR0Y/Desktop-Assistant?color=blue)](https://github.com/PRASUNR0Y/Desktop-Assistant/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/PRASUNR0Y/Desktop-Assistant?color=)](https://github.com/PRASUNR0Y/Desktop-Assistant/stargazers) [![GitHub stars](https://img.shields.io/github/forks/PRASUNR0Y/Desktop-Assistant?color=green)](https://github.com/PRASUNR0Y/Desktop-Assistant/network/members)
 
 In this lockdown period I used my Python skills and made a Desktop Assistant. 
 It is same as Google Assistant which we use in our phones. 
