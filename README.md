@@ -16,4 +16,12 @@ You can control your system with your voice command.
 
 And many more features.
 
-I do not take credits for anything or any other copyright things in my code, those belongs to it's rightful owner so if you want me to remove things that might belongs to you then contact me on my business email id –– prasunroygit@gmail.com and i will remove it.
+----
+
+## Contributing
+
+1. Fork it (<https://github.com/PRASUNR0Y/Desktop-Assistant/fork>)
+2. Create your feature branch (`git checkout -b feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin feature`)
+5. Create a new Pull Request
